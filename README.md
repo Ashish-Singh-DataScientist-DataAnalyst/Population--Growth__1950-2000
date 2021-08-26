@@ -1,3 +1,3 @@
-# Data-Visualizastion-Using-Python
+# Population - Growth
 Comparing Population Growth between U.S., China and Other Nations.
 Here, we'll be using Python to visualize out data using MatPlotlib. Library. This time we will be working with the dataset of countries and analyzing them on the basis of population growth, growth percentage and various other aspects. 
